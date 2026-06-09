@@ -14,7 +14,6 @@ An AI-powered diabetes risk assessment web application built with **Support Vect
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Disclaimer](#disclaimer)
 
 ---
